@@ -1,0 +1,51 @@
+Understood. To provide an accurate estimate for FaceChat's server infrastructure using only new components, we'll detail the costs for each specified item and calculate the total for five servers. Please note that prices can vary based on suppliers, availability, and market conditions. The following estimates are based on available data as of January 2025.
+
+1. Intel Xeon Platinum 8180 Octacosa-core Processor
+
+The Intel Xeon Platinum 8180 is a high-end server processor with 28 cores. New units are available, with prices around £9,850.00. 
+AMAZON.CO.UK
+
+2. Dell PowerEdge R940 Server with 128GB Memory
+
+The Dell PowerEdge R940 is a robust server model suitable for high-performance tasks. A fully configured unit is listed on Dell's official UK website at £83,297.81. 
+DELL.COM
+ However, this price includes various configurations and components. For a configuration with 128GB of RAM, the price would be lower. For estimation purposes, we'll consider a mid-range configuration at approximately £10,000 per server.
+
+3. Samsung 860 PRO 4TB Internal SSD
+
+To achieve a total storage of 1 petabyte (PB), approximately 250 Samsung 860 PRO 4TB SSDs would be required per server (since 1 PB = 1,000 TB). The Samsung 860 PRO series is known for its reliability and performance. While exact current pricing isn't provided in the available sources, historically, these drives have been priced around £500 each. Therefore, the storage cost per server would be approximately £125,000 (250 drives x £500).
+
+4. Socket 3647 Compatible Motherboard (e.g., Gigabyte Mainboard MD71-HB0)
+
+A compatible motherboard like the Gigabyte MD71-HB0 is essential for the Intel Xeon Platinum 8180 processor. While specific pricing for this model isn't available in the provided sources, server-grade motherboards of this caliber typically range between £500 to £1,000. For estimation, we'll assume £750 per motherboard.
+
+5. 2U Server Case
+
+A 2U server case is required to house the components. Prices for 2U server cases vary based on build quality and features. A reasonable estimate for a quality 2U server case is around £300.
+
+6. APC NetShelter CX 38U Secure Soundproof & Air Conditioned Server Room in a Box Enclosure
+
+This specific enclosure is designed to house server equipment securely while providing soundproofing and cooling. The APC NetShelter CX 38U is listed at approximately £5,000.
+
+Total Estimated Costs:
+
+Per Server:
+
+Intel Xeon Platinum 8180 Processor: £9,850
+Dell PowerEdge R940 Server with 128GB Memory: £10,000
+Samsung 860 PRO 4TB SSDs (250 units): £125,000
+Socket 3647 Compatible Motherboard: £750
+2U Server Case: £300
+Subtotal per Server: £145,900
+For 5 Servers:
+
+Subtotal for 5 Servers: £145,900 x 5 = £729,500
+Additional Infrastructure:
+
+APC NetShelter CX 38U Enclosure: £5,000
+Total Initial Investment:
+
+£729,500 (servers) + £5,000 (enclosure) = £734,500
+Conclusion:
+
+FaceChat should anticipate an initial investment of approximately £734,500 to implement the specified server infrastructure using only new components. This estimate covers the primary hardware components and the server enclosure. It's advisable to consult with suppliers for the most current pricing and to consider potential additional costs such as networking equipment, power supplies, and any necessary software licenses.

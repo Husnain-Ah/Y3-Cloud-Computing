@@ -1,0 +1,11 @@
+-- Dumping database structure for dvddb
+DROP DATABASE IF EXISTS `todo`;
+CREATE DATABASE IF NOT EXISTS `todo`;
+USE `todo`;
+
+-- Dumping structure for table todo_list
+DROP TABLE IF EXISTS `todo_list`;
+CREATE TABLE todo_list (id INTEGER PRIMARY KEY, item TEXT, minutes INTEGER);
+INSERT INTO todo_list VALUES (1, "Wash the dishes", 15);
+INSERT INTO todo_list VALUES (2, "Call Bae <3", 20);
+INSERT INTO todo_list VALUES (3, "Finish the Cloud Computing Assignment", 600);
